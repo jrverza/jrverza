@@ -21,7 +21,8 @@ Interests:
 - Data Science;
 - Programming;
 - Additive Manufacturing;
-- Arduino.
+- Arduino;
+- Open Source Softwares.
 
 Languages:
 - Portuguese Native Speaker;
