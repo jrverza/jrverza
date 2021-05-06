@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hi there ! I'm Jhonata Rafael Verza 👋
+---
 
 <!--
 **jrverza/jrverza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+** A PhD student of Materials Science and Engineering at Federal Universiy of São Carlos (UFSCar)**
+
+Contacts: 
+- jrverza@gmail.com
+- jrverza@estudante.ufscar.br
+
+Academic Resume: [Lattes](http://lattes.cnpq.br/3941324607046810)
+   
+Software Experience:
+- Intermediate experience with Python;
+- Use of Anaconda Distribution;
+- Notions of Git and Github;
+- Use of OriginLab to some data analysis.
+- MS Office and Overleaf.
+
+Interests:
+- Statistics and Math;
+- Data Science;
+- Programming;
+- Additive Manufacturing;
+- Arduino.
+
+Languages:
+- Portuguese Native Speaker;
+- Advanced English;
