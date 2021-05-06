@@ -6,8 +6,9 @@ Contacts:
 - jrverza@gmail.com
 - jrverza@estudante.ufscar.br
 
-Academic Resume: [Lattes](http://lattes.cnpq.br/3941324607046810)
+Academic Resume: <a href="http://lattes.cnpq.br/394132460704681"><img src="https://user-images.githubusercontent.com/78749835/117311797-ea87f380-ae5a-11eb-90d7-4ffb9e3c4b12.png" align="center" height="48" width="48" ></a>
    
+
 Software Experience:
 - Intermediate experience with Python;
 - Use of Anaconda Distribution;
@@ -25,9 +26,6 @@ Interests:
 Languages:
 - Portuguese Native Speaker;
 - Advanced English;
-- 
-[![][1]][2]
 
-[1]: https://user-images.githubusercontent.com/78749835/117311797-ea87f380-ae5a-11eb-90d7-4ffb9e3c4b12.png=200x200
-[2]: http://lattes.cnpq.br/3941324607046810
+
 
