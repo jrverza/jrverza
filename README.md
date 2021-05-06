@@ -1,11 +1,6 @@
 ## Hi there ! I'm Jhonata Rafael Verza 👋
----
 
-<!--
-**jrverza/jrverza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-** A PhD student of Materials Science and Engineering at Federal Universiy of São Carlos (UFSCar)**
+**A PhD student of Materials Science and Engineering at Federal Universiy of São Carlos (UFSCar)**
 
 Contacts: 
 - jrverza@gmail.com
