@@ -10,7 +10,7 @@ Academic Resume: <a href="http://lattes.cnpq.br/3941324607046810"><img src="http
    
 
 Software Experience:
-- Intermediate experience with Python;
+- Basic experience with Python;
 - Use of Anaconda Distribution;
 - Notions of Git and Github;
 - Use of OriginLab to data analysis;
